@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CLS-Supervisor App</string>
+    <string name="test_url1">http://175.107.254.86:8083/supervisor_app_services/</string>
+
+    <string name="test_url">http://175.107.254.86:8083/WebService/</string>
+
+    <string name="test_url2">http://175.107.254.86:8083/WebService/</string>
+    <string name="test_url_">http://175.107.254.86:8083/Sup_Service/</string>
+    <string name="app_url">http://odk.gb.clsurvey.pk:8080/webservice/</string>
+</resources>

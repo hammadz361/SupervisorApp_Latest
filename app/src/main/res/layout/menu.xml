@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<item
+    android:id="@+id/action_setting"
+    android:title="Log_entries">
+</item>
+    <item
+        android:id="@+id/Sync"
+        android:title="Synchronize">
+    </item>
+    <item
+        android:id="@+id/logout"
+        android:title="LogOut">
+    </item>
+</menu>
